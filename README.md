@@ -1,5 +1,5 @@
 # Particle-ID
-The primary purpose of this project is to identify different species of particle emerging from collisions in a particle accelerator. The project consists of three files: ParticleID.cpp, LikelihoodFcn.cpp, Monte
+The primary purpose of this project is to identify different species of particle emerging from collisions in a particle accelerator. The project consists of three files: ParticleID.cpp, LikelihoodFcn.cpp, MonteCarloHitGenerator.cpp.
 
 The main file is ParticleID.cpp. This code takes as input data from an unknown track in a particle detector and outputs the probability that the particle is an electron, pion, muon, kaon, or proton. More technical details are given in the file comments. 
 
